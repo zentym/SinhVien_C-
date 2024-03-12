@@ -1,0 +1,14 @@
+E:\C# project\C# hssv\HssvClass\bin\Debug\net8.0\HssvClass.exe
+E:\C# project\C# hssv\HssvClass\bin\Debug\net8.0\HssvClass.deps.json
+E:\C# project\C# hssv\HssvClass\bin\Debug\net8.0\HssvClass.runtimeconfig.json
+E:\C# project\C# hssv\HssvClass\bin\Debug\net8.0\HssvClass.dll
+E:\C# project\C# hssv\HssvClass\bin\Debug\net8.0\HssvClass.pdb
+E:\C# project\C# hssv\HssvClass\obj\Debug\net8.0\HssvClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# project\C# hssv\HssvClass\obj\Debug\net8.0\HssvClass.AssemblyInfoInputs.cache
+E:\C# project\C# hssv\HssvClass\obj\Debug\net8.0\HssvClass.AssemblyInfo.cs
+E:\C# project\C# hssv\HssvClass\obj\Debug\net8.0\HssvClass.csproj.CoreCompileInputs.cache
+E:\C# project\C# hssv\HssvClass\obj\Debug\net8.0\HssvClass.dll
+E:\C# project\C# hssv\HssvClass\obj\Debug\net8.0\refint\HssvClass.dll
+E:\C# project\C# hssv\HssvClass\obj\Debug\net8.0\HssvClass.pdb
+E:\C# project\C# hssv\HssvClass\obj\Debug\net8.0\HssvClass.genruntimeconfig.cache
+E:\C# project\C# hssv\HssvClass\obj\Debug\net8.0\ref\HssvClass.dll
